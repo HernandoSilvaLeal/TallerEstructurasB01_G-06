@@ -1,7 +1,5 @@
 # TallerEstructurasB01_G-06
 
-![Universidad](https://photos.app.goo.gl/X1g7DjGnEjt5Yta29))
-
 ## Universidad
 Politécnico Grancolombiano
 
@@ -22,6 +20,8 @@ Java
 - Ever Leonardo Gómez Clavijo
 - Silva Leal Hernando
 
+![imagen miniatura](https://juncotic.com/wp-content/uploads/2016/10/thumbnail.png)
+
 ## Ejercicios
 - [Ejercicio #1](https://replit.com/@hernandosilval/Estructuras-Esc3)
 - [Ejercicio #2](https://replit.com/@hernandosilval/Estructuras-Esc3-intentoinsercion)
@@ -33,4 +33,3 @@ Java
     b. Responda ¿en qué consistiría el peor caso y por qué implica una complejidad algorítmica de O(n2)?
     c. Implemente en Java una función que ordene un arreglo de números enteros usando el algoritmo de ordenamiento por inserción.
     
-![imagen miniatura](https://juncotic.com/wp-content/uploads/2016/10/thumbnail.png)
