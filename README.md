@@ -26,10 +26,10 @@ Java
 
 ## Ejercicios
 - [Ejercicio #1](https://replit.com/@hernandosilval/Estructuras-Esc3)
-![Presentacion](ejercicio1.png)
+![Presentacion](ejercicio31.png)
 
 - [Ejercicio #2](https://replit.com/@hernandosilval/Estructuras-Esc3-intentoinsercion)
-![Presentacion](ejercicio2.png)
+![Presentacion](ejercicio32.png)
 
 ## Taller
 1. Implemente una función en lenguaje java que, dado un arreglo de enteros, A, calcule y retorne el número que más veces se repite en A. En caso de empate, la función puede retornar cualquiera de los números más frecuentes.
