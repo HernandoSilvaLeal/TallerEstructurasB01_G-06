@@ -1,5 +1,7 @@
 # TallerEstructurasB01_G-06
 
+![Imagen](https://lh3.googleusercontent.com/pw/AM-JKLX07eKjNlqY0YByXtVQkKxhECZDq3b8TT1KjJOCb92Cv54RHZTdwHW_SX-7rBjK-pvQuJ-wcVE8ACB7V1jGoRXGvzVQYln8tABHzXtJQ2OtE3vNH8Wq7zSmhlyumvmfRz-iNtTIfT_LkzeJbKuOWst=w1716-h967-no?authuser=0)
+
 ## Universidad
 Politécnico Grancolombiano
 
@@ -30,3 +32,5 @@ Java
     a. Reproduzca un ejemplo (eso significa que usted debe seleccionar un conjunto de números desordenado y mostrar paso a paso cuál es el efecto de aplicar el algoritmo de ordenamiento por inserción sobre él).
     b. Responda ¿en qué consistiría el peor caso y por qué implica una complejidad algorítmica de O(n2)?
     c. Implemente en Java una función que ordene un arreglo de números enteros usando el algoritmo de ordenamiento por inserción.
+    
+![imagen miniatura](https://juncotic.com/wp-content/uploads/2016/10/thumbnail.png)
