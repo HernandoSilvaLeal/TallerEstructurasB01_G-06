@@ -1,7 +1,5 @@
 # TallerEstructurasB01_G-06
 
-# Taller Estructuras de Datos
-
 ## Universidad
 Politécnico Grancolombiano
 
