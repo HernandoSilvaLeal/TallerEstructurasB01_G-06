@@ -3,6 +3,8 @@
 ## Universidad
 Politécnico Grancolombiano
 
+![Presentacion](Presentacion.png)
+
 ## Pregrado
 Ingeniería de Software
 
