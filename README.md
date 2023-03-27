@@ -1,6 +1,6 @@
 # TallerEstructurasB01_G-06
 
-![Imagen](https://lh3.googleusercontent.com/pw/AM-JKLX07eKjNlqY0YByXtVQkKxhECZDq3b8TT1KjJOCb92Cv54RHZTdwHW_SX-7rBjK-pvQuJ-wcVE8ACB7V1jGoRXGvzVQYln8tABHzXtJQ2OtE3vNH8Wq7zSmhlyumvmfRz-iNtTIfT_LkzeJbKuOWst=w1716-h967-no?authuser=0)
+![Universidad](https://photos.app.goo.gl/zjbchUmxhxuJ7uTH8)
 
 ## Universidad
 Politécnico Grancolombiano
